@@ -2,6 +2,11 @@
 
 # Horizon STEM: Kloppend hart
 
+## @showdialog 
+
+Voor je aan deze tutorial begint, controleer je even of je de juiste internetbrowser gebruikt. 
+
+
 ## @showdialog
 
 In je eerste programma toon je een kloppend hart op het schermpje van je microbit. 
@@ -71,7 +76,16 @@ while (true) {
 
 ##
 
-Test
+Je moet nu nog je programma naar de microbit downloaden. Het programma staat op je computer, maar nog niet op de microbit. 
+Links onderaan zie je een grote knop "downloaden" staan. Daar klik je *niet* op. Klik op de drie puntjes die ernaast staan.
+Klik vervolgens op *verbind het apparaat* en volg de instructies op het scherm. Eénmaal de verbinding gemaakt is,
+kan je op de *Downloaden* knop drukken om het programma op de microbit te zetten. Doe dit nu. 
+
+##
+
+Proficiat, je hebt net je eerste microbit programma geschreven! Maak een screenshot van je programma en plak dit in je werkbundel. 
+
+<!--
 
 /**
 * Gebruik dit bestand om specifieke functies en blokken te definiëren.
@@ -101,6 +115,8 @@ namespace custom {
         // Add code here
     }
 
+    <!--
+
     /**
      * TODO: describe your function here
      * @param value describe value here, eg: 5
@@ -110,3 +126,4 @@ namespace custom {
         return value <= 1 ? value : fib(value -1) + fib(value - 2);
     }
 }
+-->
