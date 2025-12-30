@@ -58,6 +58,7 @@ op de virtuele microbit. Daar zie je snel of alles werkt en kan je je programma 
 
 Kijk naar de virtuele microbit. Doet je programma wat je verwacht? Goed! Anders, kijk even na wat er mis is. Je kan bij de hints
 ook de modeloplossing vinden. 
+
 ```
 while (true) {
     basic.showIcon(IconNames.Heart)
