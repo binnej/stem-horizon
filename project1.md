@@ -81,9 +81,9 @@ while (true) {
 ##
 
 Je moet nu nog je programma naar de microbit downloaden. Het programma staat op je computer, maar nog niet op de microbit zelf. 
-Links onderaan zie je een grote knop "downloaden" staan. Daar klik je *niet* op. Klik op de drie puntjes die ernaast staan.
-Klik vervolgens op *verbind het apparaat* en volg de instructies op het scherm. Eénmaal de verbinding gemaakt is,
-kan je op de *Downloaden* knop drukken om het programma op de microbit te zetten. Doe dit nu. Het downloaden zal even duren. Tijdens het downloaden zullen op de achterkant van de microbit enkele ledjes beginnen flikkeren. 
+Links onderaan zie je een grote knop "downloaden" staan. Daar klik je **niet** op. Klik op de drie puntjes die ernaast staan.
+Klik vervolgens op **verbind het apparaat** en volg de instructies op het scherm. Eénmaal de verbinding gemaakt is,
+kan je op de **Downloaden** knop drukken om het programma op de microbit te zetten. Doe dit nu. Het downloaden zal even duren. Tijdens het downloaden zullen op de achterkant van de microbit enkele ledjes beginnen flikkeren. 
 
 ##
 
