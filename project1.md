@@ -6,6 +6,7 @@
 
 Voor je aan deze tutorial begint, controleer je even of je de juiste internetbrowser gebruikt. Voor deze opdrachten gebruik je *Microsoft Edge* of *Google Chrome*. Je herkent deze browsers aan hun icoontjes. 
 <img width="672" height="194" alt="afbeelding" src="https://github.com/user-attachments/assets/2fd92872-6715-4dbb-8f6c-558c2ba0f6e7" />
+
 Met deze browsers kan je met een druk op de knop je microbit programmeren. Bij de andere browsers is dat complexer. 
 
 ## @showdialog
