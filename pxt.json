@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "project1.md"
+        "project1.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
