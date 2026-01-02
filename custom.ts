@@ -13,6 +13,13 @@ enum lichten_status {
     Groen
 }
 
+enum aan_uit {
+    //% block="aan"
+    aan,
+    //% block="uit"
+    uit
+}
+
 /**
  * Custom blocks
  */
@@ -23,7 +30,7 @@ namespace Verkeerslicht {
      * @param e De kleur van de lamp die op het verkeerslicht moet aangaan. 
      */
     //% block
-    export function foo(e: lichten_status): void {
+    export function stel_verkeerslicht_in_op(e: lichten_status): void {
         pins.digitalWritePin(DigitalPin.P0, 0)
         pins.digitalWritePin(DigitalPin.P1, 0)
         pins.digitalWritePin(DigitalPin.P2, 0)
@@ -37,9 +44,18 @@ namespace Verkeerslicht {
         if (e == lichten_status.Groen) {
             pins.digitalWritePin(DigitalPin.P2, 1)
         }
-
-
     }
+
+    export function verkeerslicht_lampjes(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
+        let r = rood   == aan_uit.aan ? 1 : 0
+        let o = oranje == aan_uit.aan ? 1 : 0
+        let g = groen  == aan_uit.aan ? 1 : 0
+
+        pins.digitalWritePin(DigitalPin.P0, r)
+        pins.digitalWritePin(DigitalPin.P1, o)
+        pins.digitalWritePin(DigitalPin.P2, g)
+    }
+
 
     /**
      * TODO: describe your function here
