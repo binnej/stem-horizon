@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id=",hXnWcR}5a;$ea9WU92?" x="0" y="0"><statement name="HANDLER"><block type="Verkeerslicht_verkeerslicht_lampjes" id="Fm/Rqu}MiNO.i,5Q~pT|"><field name="rood">aan_uit.aan</field><field name="oranje">aan_uit.aan</field><field name="groen">aan_uit.aan</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id=",hXnWcR}5a;$ea9WU92?" x="0" y="0"></block></xml>

@@ -5,11 +5,11 @@
 */
 
 enum lichten_status {
-    //% block="Rood" color = #FF0000
+    //% block="Rood" 
     Rood,
-    //% block="Oranje" color = #FFFF00
+    //% block="Oranje"
     Oranje,
-    //% block="Groen" color = #00FF00
+    //% block="Groen" 
     Groen,
     //% block="Alles af"
     Af
@@ -25,7 +25,7 @@ enum aan_uit {
 /**
  * Custom blocks
  */
-//% weight=100 color=#cc00cc icon=""
+//% weight=100 color=#000080 icon=""
 namespace Verkeerslicht {
     /**
      * Met dit blokje kan je één of geen van de lampjes op het verkeerslicht doen branden.
@@ -54,8 +54,8 @@ namespace Verkeerslicht {
     * @param oranje: oranje lampje aan of aan_uit
     * @param groen: groen lampje aan of aan_uit
     */
-    //% block color=#ff00cc
-    export function verkeerslicht_lampjes_rood_groen_blauw(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
+    //% block color=#ff00cc field, {'|' rood]}
+        export function verkeerslicht_lampjes_rood_groen_blauw(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
         let r = rood   == aan_uit.aan ? 1 : 0
         let o = oranje == aan_uit.aan ? 1 : 0
         let g = groen  == aan_uit.aan ? 1 : 0
