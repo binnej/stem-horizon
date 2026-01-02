@@ -52,13 +52,16 @@ namespace Verkeerslicht {
     * Met dit blokje kan je de lampjes van het verkeerslicht instellen zoals je wil.
     * @param value describe value here, eg: 5
     */
-    //% block
-    export function verkeerslicht_lampjes(rood: aan_uit): void {
-        let r = 1
+    //% block color=#ff00cc
+    export function verkeerslicht_lampjes(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
+        let r = rood   == aan_uit.aan ? 1 : 0
+        let o = oranje == aan_uit.aan ? 1 : 0
+        let g = groen  == aan_uit.aan ? 1 : 0
+
         pins.digitalWritePin(DigitalPin.P0, r)
+        pins.digitalWritePin(DigitalPin.P1, o)
+        pins.digitalWritePin(DigitalPin.P2, g)
     }
 
-    export function dud(): void {
-    }
-
+    
 }
