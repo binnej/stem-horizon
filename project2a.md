@@ -23,4 +23,6 @@ Bouw je programma en plak een screenshot in je bundel. Test je programma in de s
 Je microbit zal nu bliksemsnel doorheen de blokjes razen. In een oogwenk zal de microbit duizenden keren gecontroleerd hebben of je op knop A gedrukt hebt.
 Dit wordt duidelijk gemaakt in een filmpje.
 
+https://github.com/user-attachments/assets/22233c8f-93a3-4159-862e-cc78ed156bf4
+
 
