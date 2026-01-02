@@ -12,7 +12,8 @@
         "main.ts",
         "README.md",
         "project1.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "project2a.md"
     ],
     "testFiles": [
         "test.ts"
