@@ -5,11 +5,11 @@
 */
 
 enum lichten_status {
-    //% block="Rood"
+    //% block="Rood" color = #FF0000
     Rood,
-    //% block="Oranje"
+    //% block="Oranje" color = #FFFF00
     Oranje,
-    //% block="Groen"
+    //% block="Groen" color = #00FF00
     Groen,
     //% block="Alles af"
     Af
