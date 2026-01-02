@@ -50,7 +50,9 @@ namespace Verkeerslicht {
 
     /**
     * Met dit blokje kan je de lampjes van het verkeerslicht instellen zoals je wil.
-    * @param value describe value here, eg: 5
+    * @param rood: rood lampje aan of aan_uit
+    * @param oranje: oranje lampje aan of aan_uit
+    * @param groen: groen lampje aan of aan_uit
     */
     //% block color=#ff00cc
     export function verkeerslicht_lampjes(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
