@@ -1,5 +1,5 @@
 {
-    "name": "STEM horizon",
+    "name": "STEM horizon - Kopiëren",
     "version": "0.0.5",
     "description": "",
     "dependencies": {
@@ -15,7 +15,8 @@
         "tutorial-info-cache.json",
         "project2a.md",
         "project2b.md",
-        "custom.ts"
+        "custom.ts",
+        "project3.md"
     ],
     "testFiles": [
         "test.ts"

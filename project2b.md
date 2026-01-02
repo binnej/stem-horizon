@@ -1,38 +1,6 @@
+##
 
-/**
-* Gebruik dit bestand om specifieke functies en blokken te definiëren.
-* Lees meer op https://makecode.microbit.org/blocks/custom
-*/
+In de volgende oefening gebruiken we hetzelfde programma als voorheen. Enkel veranderen we de uitvoer. In plaats van met het schermpje te werken, maken we gebruik van verkeerslichtjes.
+Een verkeerslichtje kan je instellen via het ``||Verkeerslicht:stel_verkeerslicht_in_op||`` blokje te gebruiken. 
 
-enum MyEnum {
-    //% block="one"
-    One,
-    //% block="two"
-    Two
-}
-
-/**
- * Custom blocks
- */
-//% weight=100 color=#0fbc11 icon=""
-namespace custom {
-    /**
-     * TODO: describe your function here
-     * @param n describe parameter here, eg: 5
-     * @param s describe parameter here, eg: "Hello"
-     * @param e describe parameter here
-     */
-    //% block
-    export function foo(n: number, s: string, e: MyEnum): void {
-        // Add code here
-    }
-
-    /**
-     * TODO: describe your function here
-     * @param value describe value here, eg: 5
-     */
-    //% block
-    export function fib(value: number): number {
-        return value <= 1 ? value : fib(value -1) + fib(value - 2);
-    }
-}
+Zorg dat het verkeerslicht op rood springt als je op A drukt, op groen als je op B drukt en op oranje als je het logo aanraakt. Klaar? Zet een screenshot van je code in het werkblad.

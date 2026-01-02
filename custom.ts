@@ -54,7 +54,7 @@ namespace Verkeerslicht {
     * @param oranje: oranje lampje aan of aan_uit
     * @param groen: groen lampje aan of aan_uit
     */
-    //% block color=#ff00cc field, {'|' rood]}
+    //% block color=#ff00cc 
         export function verkeerslicht_lampjes_rood_groen_blauw(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
         let r = rood   == aan_uit.aan ? 1 : 0
         let o = oranje == aan_uit.aan ? 1 : 0
