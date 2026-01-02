@@ -34,3 +34,27 @@ while (false) {
 }
 
 ```
+
+##
+
+In de volgende stap ga je op het scherm tonen wat er in het geheugen zit als je het logo aanraakt. De pseudocode voor je hele programma wordt:
+herhaal altijd:
+   als knop A gedrukt:
+      gedrukt wordt 1
+   als knop B gedrukt:
+      gedrukt wordt 2
+   als logo aangeraakt:
+      toon inhoud gedrukt op scherm
+
+Klik op het lampje als je wil zien hoe je *toon inhoud gedrukt op het scherm* moet uitvoeren. Test je programma uit en programmeer het op de microbit.
+
+```blocks
+let gedrukt = 0
+basic.showNumber(gedrukt)
+```
+
+##
+
+Geef je geprogrammeerde microbit door aan je buur. Laat hem stiekem op knop A of B drukken zonder dat je het ziet. Raak daarna het logo aan en vertel hem op welke knop hij drukte. 
+
+

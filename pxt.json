@@ -1,5 +1,5 @@
 {
-    "name": "STEM horizon - Kopiëren",
+    "name": "STEM horizon - Kopiëren - Kopiëren",
     "version": "0.0.5",
     "description": "",
     "dependencies": {
@@ -16,7 +16,8 @@
         "project2a.md",
         "project2b.md",
         "custom.ts",
-        "project3.md"
+        "project3.md",
+        "project3b.md"
     ],
     "testFiles": [
         "test.ts"
