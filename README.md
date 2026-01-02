@@ -1,6 +1,12 @@
 
 > Open deze pagina op [https://binnej.github.io/stem-horizon/](https://binnej.github.io/stem-horizon/)
 
+## Tutorial openen:
+
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project1] 
+
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project2a] 
+
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.

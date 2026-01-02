@@ -30,6 +30,7 @@ Zoek het ``||loops: terwijl - doe||`` blokje. Je vindt het bij ``||Loops: Lussen
 Het ``||loops: terwijl - doe||`` blokje herhaalt alle opdrachten die je erin plaatst. Het is zeer gelijkaardig aan het 
 *herhalen totdat*-blokje van het doolhof. In het doolhof programma bleef de computer de instructies herhalen totdat 
 het mannetje aan zijn eindbestemming kwam. 
+
 <img width="536" height="92" alt="afbeelding aan het laden..." src="https://github.com/user-attachments/assets/ea257560-097a-4bad-a2d5-ed667f76ff19" />
 
 Bij de microbit kan je zelf instellen hoe lang de microbit het moet herhalen.
