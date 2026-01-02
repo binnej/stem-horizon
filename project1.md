@@ -30,6 +30,7 @@ Zoek het ``||loops: terwijl - doe||`` blokje. Je vindt het bij ``||Loops: Lussen
 Het ``||loops: terwijl - doe||`` blokje herhaalt alle opdrachten die je erin plaatst. Het is zeer gelijkaardig aan het 
 *herhalen totdat*-blokje van het doolhof. In het doolhof programma bleef de computer de instructies herhalen totdat 
 het mannetje aan zijn eindbestemming kwam. 
+
 <img width="536" height="92" alt="afbeelding aan het laden..." src="https://github.com/user-attachments/assets/ea257560-097a-4bad-a2d5-ed667f76ff19" />
 
 Bij de microbit kan je zelf instellen hoe lang de microbit het moet herhalen.
@@ -38,7 +39,7 @@ Het hart moet eeuwig blijven kloppen. De microbit moet de code dus eeuwig herhal
 ##
 
 Verander de voorwaarde in het ``||loops: terwijl - doe||`` van ``||logic: onwaar||`` naar ``||logic: waar||``.
-Klik daarvoor op het driehoekje naast waar. 
+Klik daarvoor op het driehoekje naast onwaar. 
 
 Alle blokjes in het ``||loops: terwijl - doe||`` blokje zullen nu voor eeuwig herhaald worden. 
 
@@ -87,7 +88,7 @@ kan je op de **Downloaden** knop drukken om het programma op de microbit te zett
 
 ##
 
-Proficiat, je hebt net je eerste microbit programma geschreven! Maak een screenshot van je programma en plak dit in je werkbundel. 
+Proficiat, je hebt net je eerste microbit programma geschreven! Maak een screenshot van je programma en plak dit in je werkbundel. Beantwoord ook de vragen. 
 
 <!--
 
