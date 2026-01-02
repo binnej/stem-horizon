@@ -15,5 +15,6 @@ Maak nu het programma. Je mag de volgende blokjes gebruiken:
 
 Je kan de paarse blokjes in het als dan blokje slepen. Kijk even naar de hint. 
 
+<img width="222" height="72" alt="afbeelding" src="https://github.com/user-attachments/assets/6d3a02e8-2c6c-4646-85f1-2104136ddd75" />
 
 
