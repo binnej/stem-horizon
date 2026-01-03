@@ -6,7 +6,7 @@ De microbit kan echter veel onthouden. Hij heeft duizenden schuiven. Opdat je al
 
 Een lade heet in programmeertaal een variabele.
 
-<img width="211" height="140" alt="afbeelding" src="https://github.com/user-attachments/assets/8867946b-927f-47db-97d9-682aaa115ba5" />
+<img width="422" height="280" alt="afbeelding" src="https://github.com/user-attachments/assets/8867946b-927f-47db-97d9-682aaa115ba5" />
 
 
 ##
@@ -17,7 +17,7 @@ In een eerste stap ga je een sticker met een naam op de lade plakken. In program
 
 Je zal merken dat er nieuwe knoppen verschijnen. Naast de *maak een variabele...* knop verschijnen er drie nieuwe knoppen.
 
-<img width="281" height="347" alt="afbeelding" src="https://github.com/user-attachments/assets/71711d03-5c44-4246-b17a-7326a88a3608" />
+<img width="140" height="173" alt="afbeelding" src="https://github.com/user-attachments/assets/71711d03-5c44-4246-b17a-7326a88a3608" />
 
 Wil je iets in het geheugen stoppen, dan gebruik je het ``||variables: Stel gedrukt in op 0|| blokje. Helaas kan je enkel getallen opslaan in het geheugen van de microbit. 
 
