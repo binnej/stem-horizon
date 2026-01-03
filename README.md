@@ -7,6 +7,10 @@
 
 [https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project2a] 
 
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3]
+
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3b]
+
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
