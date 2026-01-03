@@ -54,7 +54,7 @@ In een volgende stap ga je het getal uit het geheugen van de microbit halen. Dat
 
 In de volgende stap ga je op het scherm tonen wat er in het geheugen zit als je het logo aanraakt. De pseudocode voor je hele programma wordt:
 
-<img width="372" height="209" alt="afbeelding" src="https://github.com/user-attachments/assets/eee63ed7-baba-42a8-aa58-c07e4ef38bdb" />
+<img width="186" height="104" alt="afbeelding" src="https://github.com/user-attachments/assets/eee63ed7-baba-42a8-aa58-c07e4ef38bdb" />
 
 Klik op het lampje als je wil zien hoe je *toon inhoud gedrukt op het scherm* moet uitvoeren. Test je programma uit en programmeer het op de microbit.
 
