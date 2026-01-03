@@ -17,7 +17,8 @@
         "project2b.md",
         "custom.ts",
         "project3.md",
-        "project3b.md"
+        "project3b.md",
+        "project3c.md"
     ],
     "testFiles": [
         "test.ts"

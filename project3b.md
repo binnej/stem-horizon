@@ -1,8 +1,10 @@
 # project3b
 
-## @showdialog()
-Tijd voor een eigen programmaatje. Je maakt een verkeerslicht. Als je op knop A drukt, dan verandert het verkeerslicht. Is het rood, dan wordt het licht groen. Is het groen, dan wordt het 
-licht oranje. Is het licht oranje, dan wordt het rood. 
+## 
+Tijd voor een eigen programmaatje. Je maakt een verkeerslicht. Als je op knop A drukt, dan verandert het verkeerslicht. 
+- Is het rood, dan wordt het licht groen. 
+- Is het groen, dan wordt het licht oranje. 
+- Is het licht oranje, dan wordt het rood. 
 
 Voor dit programma zal je moeten onthouden op welke kleur het verkeerlicht ingesteld staat. Maak hiervoor een variabele kleur. Stel deze in op 1 als het groen is, 2 als het oranje is en 3 als het rood is.
 
