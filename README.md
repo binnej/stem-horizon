@@ -13,6 +13,12 @@ Dit is een *work in progress*.
 
 [https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3b]
 
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3c]
+
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project4]
+
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project5]
+
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
