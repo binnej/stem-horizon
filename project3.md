@@ -25,7 +25,7 @@ Wil je iets in het geheugen stoppen, dan gebruik je het ``||variables: Stel gedr
 
 Maak nu een programma dat onthoudt op welke knop, A of B je gedrukt hebt. In pseudocode ziet dat programma er zo uit:
 
-<img width="252" height="149" alt="afbeelding" src="https://github.com/user-attachments/assets/6cd10e67-856d-440b-993d-cd9271d25e16" />
+<img width="126" height="75" alt="afbeelding" src="https://github.com/user-attachments/assets/6cd10e67-856d-440b-993d-cd9271d25e16" />
 
 Je kan je programma al testen, maar je zal merken dat er ogenschijnlijk niks gebeurt. Wil je zeker zijn dat alles juist is, vergelijk dan met de modeloplossing. Die kan je zien door op het lampje links onderaan te klikken.
 
