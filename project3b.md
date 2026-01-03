@@ -1,6 +1,7 @@
 # project3b
 
 ## 
+
 Tijd voor een eigen programmaatje. Je maakt een verkeerslicht. Als je op knop A drukt, dan verandert het verkeerslicht. 
 - Is het rood, dan wordt het licht groen. 
 - Is het groen, dan wordt het licht oranje. 
@@ -23,3 +24,7 @@ if (kleur == 1) {
 Heb je je programma getest op de virtuele microbit? Heb je het geprogrammeerd en uitgeprobeerd? Dan mag je een screenshot van je programma plakken in de werkbundel. 
 
 Loop je voor op de rest? Dan mag je project 3c maken. 
+
+
+```blocks
+```
