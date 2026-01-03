@@ -11,7 +11,7 @@ Een lade heet in programmeertaal een variabele.
 
 ##
 
-In een eerste stap ga je een sticker met een naam op de lade plakken. In programeertaaltermen ga je een variabele aanmaken. Klik op de *maak een variabele...* knop. Je vindt deze terug in de gereedschapskist onder ``||Variables:maak een variabele...||``. Geef je variabele de naam *gedrukt*
+In een eerste stap ga je een sticker met een naam op de lade plakken. In programeertaal spreken we van een variabele aanmaken. Klik op de *maak een variabele...* knop. Je vindt deze terug in de gereedschapskist onder ``||Variables:maak een variabele...||``. Geef je variabele de naam *gedrukt*
 
 ## @showdialog
 
@@ -19,18 +19,17 @@ Je zal merken dat er nieuwe knoppen verschijnen. Naast de *maak een variabele...
 
 <img width="140" height="173" alt="afbeelding" src="https://github.com/user-attachments/assets/71711d03-5c44-4246-b17a-7326a88a3608" />
 
-Wil je iets in het geheugen stoppen, dan gebruik je het ``||variables: Stel gedrukt in op 0|| blokje. Helaas kan je enkel getallen opslaan in het geheugen van de microbit. 
+Wil je iets in het geheugen stoppen, dan gebruik je het ``||variables: Stel gedrukt in op 0|| blokje. Dit vind je in de gereedschapskist onder ``||variables: Variabelen||`` Helaas kan je enkel getallen opslaan in het geheugen van de microbit. 
 
 ##
 
 Maak nu een programma dat onthoudt op welke knop, A of B je gedrukt hebt. In pseudocode ziet dat programma er zo uit:
-herhaal altijd:
-   als knop A gedrukt:
-      gedrukt wordt 1
-   als knop B gedrukt:
-      gedrukt wordt 2
 
-Je kan je programma al testen, maar je zal merken dat er niks gebeurt. Wil je zeker zijn dat alles juist is, vergelijk dan met de modeloplossing. Die kan je zien door op het lampje links onderaan te klikken.
+<img width="252" height="149" alt="afbeelding" src="https://github.com/user-attachments/assets/6cd10e67-856d-440b-993d-cd9271d25e16" />
+
+Je kan je programma al testen, maar je zal merken dat er ogenschijnlijk niks gebeurt. Wil je zeker zijn dat alles juist is, vergelijk dan met de modeloplossing. Die kan je zien door op het lampje links onderaan te klikken.
+
+De reden is simpel. Je microbit schrijft in zijn geheugen op welke knop je gedrukt hebt, maar dat geheugen zit verborgen in de microbit. Je kan dat niet zien. 
 
 ```blocks
  let gedrukt = 0
@@ -54,13 +53,8 @@ In een volgende stap ga je het getal uit het geheugen van de microbit halen. Dat
 ##
 
 In de volgende stap ga je op het scherm tonen wat er in het geheugen zit als je het logo aanraakt. De pseudocode voor je hele programma wordt:
-herhaal altijd:
-   als knop A gedrukt:
-      gedrukt wordt 1
-   als knop B gedrukt:
-      gedrukt wordt 2
-   als logo aangeraakt:
-      toon inhoud gedrukt op scherm
+
+<img width="372" height="209" alt="afbeelding" src="https://github.com/user-attachments/assets/eee63ed7-baba-42a8-aa58-c07e4ef38bdb" />
 
 Klik op het lampje als je wil zien hoe je *toon inhoud gedrukt op het scherm* moet uitvoeren. Test je programma uit en programmeer het op de microbit.
 
