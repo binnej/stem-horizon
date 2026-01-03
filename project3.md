@@ -1,10 +1,13 @@
 ## @showdialog()
 
 In het derde project ga je met geheugen werken. Je microbit kan immers dingen onthouden. In je microbit zit een soort van ladekast. Je kan iets onthouden door het in een lade (schuif) te stoppen.
-De microbit kan echter veel onthouden. Hij heeft duizenden schuiven. Opdat je alles terug vindt, moet je een stickertje met een naam op de lade plakken. Zo vind je makkelijk terug waar je iets
-hebt opgeslagen. 
+
+De microbit kan echter veel onthouden. Hij heeft duizenden schuiven. Opdat je alles terug vindt, moet je een stickertje met een naam op de lade plakken. Zo vind je makkelijk terug waar je iets hebt opgeslagen. 
 
 Een lade heet in programmeertaal een variabele.
+
+<img width="844" height="563" alt="afbeelding" src="https://github.com/user-attachments/assets/8867946b-927f-47db-97d9-682aaa115ba5" />
+
 
 ##
 
