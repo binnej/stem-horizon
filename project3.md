@@ -6,7 +6,7 @@ De microbit kan echter veel onthouden. Hij heeft duizenden schuiven. Opdat je al
 
 Een lade heet in programmeertaal een variabele.
 
-<img width="422" height="281" alt="afbeelding" src="https://github.com/user-attachments/assets/8867946b-927f-47db-97d9-682aaa115ba5" />
+<img width="211" height="140" alt="afbeelding" src="https://github.com/user-attachments/assets/8867946b-927f-47db-97d9-682aaa115ba5" />
 
 
 ##
