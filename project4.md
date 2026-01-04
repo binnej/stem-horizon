@@ -14,17 +14,9 @@ Zorg ervoor dat je allebei op hetzelfde kanaal werkt. Neem het klasnummer maal t
 ##
 
 De pseudocode voor de zender ziet er zo uit:
+<img width="276" height="159" alt="afbeelding laden..." src="https://github.com/user-attachments/assets/2c9b0187-1f30-4597-998b-dec1c0d403f8" />
 
-radio instellen groep klasnummer maal 10
-   herhaal eeuwig:
-      als knop A ingedrukt:
-          radio verzend nummer 1
-      als knop B ingedrukt:
-          radio verzend nummer 2
-      als logo aangeraakt wordt:
-          radio verzend nummer 3 
 Je vindt alle blokjes in verband met de zender in de gereedschapskist bij ``||Radio: Radio||``
-
 
 Voor de pseudocode van de ontvanger druk je even op volgende.
 
