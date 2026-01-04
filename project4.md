@@ -48,7 +48,7 @@ Werkt het? Druk op volgende...
 
 Pas nu de code van de ontvanger aan. Stop de ontvanger in het verkeerslichtje. Als je op knop A drukt op de zender, moet het verkeerslicht van de ontvanger op rood springen. Druk je op B, dan moet het op groen springen. Raak je het logo aan dan moet het op oranje springen. 
 
-Dit ga je met een ``||logic: als ... dan||`` blokje moeten doen. Maar hoe kan je vergelijken of het ontvangen nummer gelijk is aan 1? Daar is uiteraard een blokje voor! Bij ``||logic: Logisch||`` vind je dit blokjke:
+Dit ga je met een ``||logic: als ... dan||`` blokje moeten doen. Maar hoe kan je vergelijken of het ontvangen nummer gelijk is aan 1? Daar is uiteraard een blokje voor! Bij ``||logic: Logisch||`` vind je dit blokje:
 
 <img width="167" height="45" alt="afbeelding" src="https://github.com/user-attachments/assets/35bc5bd2-19a5-40b1-bf3d-9250658f8e93" />
 
