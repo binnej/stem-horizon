@@ -19,10 +19,10 @@ Je kan de paarse blokjes in het als dan blokje slepen. Kijk even naar de hint.
 
 Bouw je programma en plak een screenshot in je bundel. Test je programma in de simulator en programmeer het op de microbit. Daarna druk je op volgende. 
 
-## showdialog()
+## @showdialog
 Je microbit zal nu bliksemsnel doorheen de blokjes razen. In een oogwenk zal de microbit duizenden keren gecontroleerd hebben of je op knop A gedrukt hebt.
 Dit wordt duidelijk gemaakt in een filmpje.
 
-https://github.com/user-attachments/assets/22233c8f-93a3-4159-862e-cc78ed156bf4
+ [link naar filmpje](https://github.com/user-attachments/assets/22233c8f-93a3-4159-862e-cc78ed156bf4)
 
 
