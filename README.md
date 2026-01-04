@@ -9,6 +9,8 @@ Dit is een *work in progress*.
 
 [https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project2a] 
 
+[https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project2b] 
+
 [https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3]
 
 [https://makecode.microbit.org/#tutorial:github:binnej/stem-horizon/project3b]
