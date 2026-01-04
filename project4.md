@@ -14,6 +14,7 @@ Zorg ervoor dat je allebei op hetzelfde kanaal werkt. Neem het klasnummer maal t
 ##
 
 De pseudocode voor de zender ziet er zo uit:
+
 <img width="276" height="159" alt="afbeelding laden..." src="https://github.com/user-attachments/assets/2c9b0187-1f30-4597-998b-dec1c0d403f8" />
 
 Je vindt alle blokjes in verband met de zender in de gereedschapskist bij ``||Radio: Radio||``
