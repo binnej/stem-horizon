@@ -26,3 +26,11 @@ Dit wordt duidelijk gemaakt in een filmpje.
  [link naar filmpje](https://github.com/user-attachments/assets/22233c8f-93a3-4159-862e-cc78ed156bf4)
 
 
+## 
+
+Debug nu je programma. 
+- Klik op het kevertje onder de microbit. 
+- Zet de slak aan. Je microbit draait nu in *slow motion*. 
+- Klik op de knop A en B. Slaag jij erin om op knop B te drukken zonder dat de microbit het detecteert?
+
+
