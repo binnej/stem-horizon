@@ -11,6 +11,11 @@ Voor dit programma zal je moeten onthouden op welke kleur het verkeerlicht inges
 
 Een tip kan je vinden als je op het lampje klikt.
 
+```ghost
+//Blokken toevoegen aan gereedschapskist...
+Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
+```
+
 ```blocks
 let kleur = 1
 
