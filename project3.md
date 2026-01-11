@@ -59,6 +59,14 @@ In de volgende stap ga je op het scherm tonen wat er in het geheugen zit als je 
 
 Klik op het lampje als je wil zien hoe je *toon inhoud gedrukt op het scherm* moet uitvoeren. Test je programma uit en programmeer het op de microbit.
 
+```ghost
+//Ghost block: voegt knoppen toe, anders zijn enkel de knoppen uit de hints beschikbaar. 
+    if (input.logoIsPressed()) {
+    	
+    }
+```
+
+
 ```blocks
 let gedrukt = 0
 basic.showNumber(gedrukt)
