@@ -3,7 +3,7 @@ Status:
 - Project 1: Klaar
 - Project 2a: Klaar
 - Project 2b: gefinaliseerd, nog controleren, nieuwe blokjes werken niet in Firefox.
-- Project 3: wordt aangepast
+- Project 3: gefinaliseerd, nog te controleren: werkt het ghost block goed? 
 - rest nog te finaliseren.
 
 
