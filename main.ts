@@ -1,3 +1,4 @@
+Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
 enum lichten_status {
     //% block="Rood" 
     Rood,
