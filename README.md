@@ -1,4 +1,10 @@
 Dit is een *work in progress*. 
+Status:
+- Project 1: Klaar
+- Project 2a: Klaar
+- Project 2b: gefinaliseerd, nog controleren, nieuwe blokjes werken niet in Firefox.
+- Project 3: wordt aangepast
+- rest nog te finaliseren.
 
 
 ## Tutorial openen:
