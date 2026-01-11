@@ -1,75 +1,13 @@
 ##
 
-In de volgende oefening gebruiken we hetzelfde programma als voorheen. Enkel veranderen we de uitvoer. In plaats van met het schermpje te werken, maken we gebruik van verkeerslichtjes.
-Een verkeerslichtje kan je instellen via het ``||Verkeerslicht:stel_verkeerslicht_in_op||`` blokje. 
+In de volgende oefening gebruiken we hetzelfde programma als voorheen. Enkel veranderen we de uitvoer. In plaats van met het schermpje te werken, maken we gebruik van verkeerslichtjes. Stop de microbit in het gele schuifje achteraan in het verkeerslicht. Let erop dat knop A bovenaan staat. Anders werkt het niet. 
 
-Zorg dat het verkeerslicht op rood springt als je op A drukt, op groen als je op B drukt en op oranje als je het logo aanraakt. Klaar? Zet een screenshot van je code in het werkblad.
+<img width="152" height="275" alt="afbeelding laden..." src="https://github.com/user-attachments/assets/d085b965-0991-4338-a5ae-03ef46b98a39" />
 
-/**
-* Gebruik dit bestand om specifieke functies en blokken te definiëren.
-* Lees meer op https://makecode.microbit.org/blocks/custom
-*/
+##
 
-enum lichten_status {
-    //% block="Rood" 
-    Rood,
-    //% block="Oranje"
-    Oranje,
-    //% block="Groen" 
-    Groen,
-    //% block="Alles af"
-    Af
-}
+Een verkeerslichtje kan je instellen via het ``||Verkeerslicht:stel_verkeerslicht_in_op||`` blokje. Bouw je code opnieuw op. In pseudocode:
+<img width="161" height="137" alt="afbeelding laden..." src="https://github.com/user-attachments/assets/3b4681df-26d5-4468-9b0f-954c995e58fb" />
 
-enum aan_uit {
-    //% block="aan"
-    aan,
-    //% block="uit"
-    uit
-}
+Klaar? Zet een screenshot van je code in het werkblad.
 
-/**
- * Custom blocks
- */
-//% weight=100 color=#000080 icon=""
-namespace Verkeerslicht {
-    /**
-     * Met dit blokje kan je één of geen van de lampjes op het verkeerslicht doen branden.
-     * @param e De kleur van de lamp die op het verkeerslicht moet aangaan. 
-     */
-    //% block
-    export function stel_verkeerslicht_in_op(kleur: lichten_status): void {
-        pins.digitalWritePin(DigitalPin.P0, 0)
-        pins.digitalWritePin(DigitalPin.P1, 0)
-        pins.digitalWritePin(DigitalPin.P2, 0)
-
-        if (kleur == lichten_status.Rood) {
-            pins.digitalWritePin(DigitalPin.P0, 1)
-        }
-        if (kleur == lichten_status.Oranje) {
-            pins.digitalWritePin(DigitalPin.P1, 1)
-        }
-        if (kleur == lichten_status.Groen) {
-            pins.digitalWritePin(DigitalPin.P2, 1)
-        }
-    }
-
-    /**
-    * Met dit blokje kan je de lampjes van het verkeerslicht instellen zoals je wil.
-    * @param rood: rood lampje aan of aan_uit
-    * @param oranje: oranje lampje aan of aan_uit
-    * @param groen: groen lampje aan of aan_uit
-    */
-    //% block color=#ff00cc 
-        export function verkeerslicht_lampjes_rood_groen_blauw(rood: aan_uit, oranje: aan_uit, groen: aan_uit): void {
-        let r = rood   == aan_uit.aan ? 1 : 0
-        let o = oranje == aan_uit.aan ? 1 : 0
-        let g = groen  == aan_uit.aan ? 1 : 0
-
-        pins.digitalWritePin(DigitalPin.P0, r)
-        pins.digitalWritePin(DigitalPin.P1, o)
-        pins.digitalWritePin(DigitalPin.P2, g)
-    }
-
-    
-}
