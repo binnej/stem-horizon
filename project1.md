@@ -67,7 +67,8 @@ op de virtuele microbit. Daar zie je snel of alles werkt en kan je je programma 
 ## 
 
 Kijk naar de virtuele microbit. Doet je programma wat je verwacht? Goed! Anders, kijk even na wat er mis is. Je kan bij de hints
-ook de modeloplossing vinden. 
+ook de modeloplossing vinden. Klik dan op het <img width="32" height="32" alt="afbeelding" src="https://github.com/user-attachments/assets/8595171e-ce31-4367-9c5d-48f20d5f0691" /> icoontje. 
+
 
 ```blocks
 while (true) {
