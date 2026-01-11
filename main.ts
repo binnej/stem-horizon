@@ -1,13 +1,3 @@
-basic.forever(function () {
-	
-})
-
-
-/**
-* Gebruik dit bestand om specifieke functies en blokken te definiëren.
-* Lees meer op https://makecode.microbit.org/blocks/custom
-*/
-
 enum lichten_status {
     //% block="Rood" 
     Rood,
@@ -18,18 +8,12 @@ enum lichten_status {
     //% block="Alles af"
     Af
 }
-
 enum aan_uit {
     //% block="aan"
     aan,
     //% block="uit"
     uit
 }
-
-/**
- * Custom blocks
- */
-//% weight=100 color=#000080 icon=""
 namespace Verkeerslicht {
     /**
      * Met dit blokje kan je één of geen van de lampjes op het verkeerslicht doen branden.
@@ -71,3 +55,6 @@ namespace Verkeerslicht {
 
 
 }
+basic.forever(function () {
+	
+})
