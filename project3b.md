@@ -14,7 +14,7 @@ Je microbit zal ook moeten nagaan welke waarde kleur heeft. Je kan nagaan of het
 Een tip kan je vinden als je op het lampje klikt.
 
 ```ghost
-Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
+Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood);
 ```
 
 ```blocks
@@ -23,6 +23,7 @@ let kleur = 1
 if (kleur == 1) {
    kleur = 2
 }
+Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood);
 ```
 
 ##
