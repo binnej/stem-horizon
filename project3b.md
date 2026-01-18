@@ -15,7 +15,8 @@ Een tip kan je vinden als je op het lampje klikt.
 
 ```ghost
 //Blokken toevoegen aan gereedschapskist...
-Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
+//Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)  werkte niet.
+stel_verkeerslicht_in_op(lichten_status.Rood)
 ```
 
 ```blocks
@@ -32,6 +33,3 @@ Heb je je programma getest op de virtuele microbit? Heb je het geprogrammeerd en
 
 Loop je voor op de rest? Dan mag je project 3c maken. 
 
-
-```blocks
-```
