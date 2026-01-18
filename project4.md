@@ -2,14 +2,14 @@
 
 ## @showdialog Draadloos
 
-Je microbit kan draadloos communiceren met een andere microbit! Je microbit heeft een klein radiozendertje aan boord en ook een radio ontvanger. Hiermee kan je onderandere getallen naar mekaar
+Je microbit kan draadloos communiceren met een andere microbit! Je microbit heeft een klein radiozendertje aan boord en ook een radio ontvanger. Hiermee kan je onder andere getallen naar mekaar
 doorsturen. Net zoals de radio thuis, moet je de microbit instellen op de juiste frequentie, of de juiste groep. Een microbit kan op 256 groepen uitzenden. 
 
 In de klas zijn er een 25-tal microbits aanwezig. Het is belangrijk dat elk groepje werkt op zijn eigen kanaal. Anders ga je boodschappen ontvangen van de verkeerde microbits. 
-Om dit in goede banen te leiden, spreken we af dat voor het groepsnummer je klasnummer maal 10 gebruikt. Dus heb je klasnummer 5, dan gebruik je groep 50. 
+Om dit in goede banen te leiden, moeten er afspraken zijn. Gebruik als groepnummer je klasnummer maal 10. Heb je klasnummer 5, dan gebruik je groep 50. 
 
 Om dit programma tot een goed einde te brengen moet je samenwerken met je buur. Iemand programmeert de zender (afstandsbediening) en iemand anders programmeert de ontvanger.
-Zorg ervoor dat je allebei op hetzelfde kanaal werkt. Neem het klasnummer maal tien van de persoon die de zender programmeert. Tip: de ontvanger schrijven is iets moelijker dan de zender.
+Zorg ervoor dat je allebei op hetzelfde kanaal werkt. Neem daarom het klasnummer maal tien van de persoon die de zender programmeert. Tip: de ontvanger schrijven is iets moelijker dan de zender.
 
 ##
 
@@ -27,7 +27,7 @@ De ontvanger kan helaas niet werken in het ``||basic: bij opstarten||`` blokje. 
 een getal ontvangt op de ingestelde groep, wordt de code die je in dit blokje plakt uitgevoerd. Het ontvangen getal stopt de microbit in het geheugen. Waar? In de variabele (schuif) met naam
 *receivedNumber*. Dat betekent *ontvangen getal* in het Nederlands.  
 
-Programmeer je programma naar de microbit. Help je buur als hij nog niet klaar is. 
+Programmeer de microbit. Help je buur als hij nog niet klaar is. 
 
 ## 
 
