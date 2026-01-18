@@ -11,7 +11,7 @@ Een lade heet in programmeertaal een variabele.
 
 ##
 
-In een eerste stap ga je een sticker met een naam op de lade plakken. In programeertaal spreken we van een variabele aanmaken. Klik op de *maak een variabele...* knop. Je vindt deze terug in de gereedschapskist onder ``||Variables:maak een variabele...||``. Geef je variabele de naam *gedrukt*.
+In een eerste stap ga je een sticker met een naam op de lade plakken. In programeertaal spreken we van een variabele aanmaken. Klik op de *maak een variabele...* knop. Je vindt deze terug in de gereedschapskist onder ``||Variables:Variabelen||``. Geef je variabele de naam *gedrukt*.
 
 ## @showdialog
 
