@@ -2,10 +2,12 @@ Dit is een *work in progress*.
 Status:
 - Project 1: Klaar
 - Project 2a: Klaar
-- Project 2b: gefinaliseerd, nog controleren, nieuwe blokjes werken niet in Firefox.
-- Project 3: gefinaliseerd, nog te controleren: werkt het ghost block goed?
-- project 3b: ghostblock toegevoegd, nog te controleren. 
-- rest nog te finaliseren.
+- Project 2b: Klaar
+- Project 3: klaar
+- project 3b: ghostblock werkte niet, aangepast...
+- project 3c: klaar
+- project 4: controleren
+- project 5: controleren
 
 
 ## Tutorial openen:
