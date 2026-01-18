@@ -7,6 +7,7 @@ In de volgende oefening gebruiken we hetzelfde programma als voorheen. Enkel ver
 ##
 
 Een verkeerslichtje kan je instellen via het ``||Verkeerslicht:stel_verkeerslicht_in_op||`` blokje. Bouw je code opnieuw op. In pseudocode:
+
 <img width="161" height="137" alt="afbeelding laden..." src="https://github.com/user-attachments/assets/3b4681df-26d5-4468-9b0f-954c995e58fb" />
 
 Klaar? Zet een screenshot van je code in het werkblad.
