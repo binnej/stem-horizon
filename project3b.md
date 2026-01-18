@@ -14,9 +14,7 @@ Je microbit zal ook moeten nagaan welke waarde kleur heeft. Je kan nagaan of het
 Een tip kan je vinden als je op het lampje klikt.
 
 ```ghost
-//Blokken toevoegen aan gereedschapskist...
-//Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)  werkte niet.
-stel_verkeerslicht_in_op(lichten_status.Rood)
+Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
 ```
 
 ```blocks
