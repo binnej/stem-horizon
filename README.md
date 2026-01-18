@@ -6,7 +6,7 @@ Status:
 - Project 3: klaar
 - project 3b: ghostblock werkte niet, aangepast...
 - project 3c: klaar
-- project 4: controleren
+- project 4: klaar
 - project 5: controleren
 
 
