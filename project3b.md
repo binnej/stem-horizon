@@ -15,6 +15,14 @@ Een tip kan je vinden als je op het lampje klikt.
 
 ```ghost
 Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood);
+basic.forever(function () {
+    if (input.buttonIsPressed(Button.A)) {
+    }
+    if (input.buttonIsPressed(Button.B)) {
+    }
+    if (input.logoIsPressed()) {
+    }
+})
 ```
 
 ```blocks
