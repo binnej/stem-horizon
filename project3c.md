@@ -1,5 +1,5 @@
 ## project3c
-Je maakt net hetzelfde programma als bij het vorige project. Echter moet je ervoor zorgen dat het oranje ligt aan en uit knippert. Je programma moet dus het volgende doen als er op een knop gedrukt wordt:
+Je maakt net hetzelfde programma als bij het vorige project. Echter moet je ervoor zorgen dat het oranje licht aan en uit knippert. Je programma moet dus het volgende doen als er op een knop gedrukt wordt:
 - Is het licht rood, dan wordt het groen.
 - Is het licht groen, dan wordt het licht oranje en knippert het.
 - Is het licht oranje en aan het knipperen? Dan wordt het rood.
