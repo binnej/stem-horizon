@@ -14,12 +14,11 @@ Je microbit zal ook moeten nagaan welke waarde kleur heeft. Je kan nagaan of het
 Een tip kan je vinden als je op het lampje klikt.
 
 ```ghost
-Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood);
 if (input.buttonIsPressed(Button.A)) {
-}
-if (input.buttonIsPressed(Button.B)) {
+    Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
 }
 if (input.logoIsPressed()) {
+    Verkeerslicht.stel_verkeerslicht_in_op(lichten_status.Rood)
 }
 ```
 
