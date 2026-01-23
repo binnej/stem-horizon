@@ -1,13 +1,4 @@
-Dit is een *work in progress*. 
-Status:
-- Project 1: Klaar
-- Project 2a: Klaar
-- Project 2b: Klaar
-- Project 3: klaar
-- project 3b: ghostblock werkte niet, aangepast...
-- project 3c: klaar
-- project 4: klaar
-- project 5: controleren
+
 
 
 ## Tutorial openen:
